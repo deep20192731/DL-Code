@@ -1,2 +1,2 @@
 # DL-Code
-Will push all the code/learnings here
+env.yml - conda environment file. Use this file to reproduce all the experiements.
