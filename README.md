@@ -10,3 +10,6 @@ experiments-folder<br/>
 Udacity DLND<br/>
 1. Sentiment Analysis with a Neural Network
 2. Miniflow(mini tensorflow)
+
+Backpropagation<br/>
+![Alt text](/data/images/backprop.jpg "Backpropagation")
