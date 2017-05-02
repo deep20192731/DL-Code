@@ -7,10 +7,6 @@ env.yml - conda environment file. Use this file to reproduce all the experiement
 3. <i>Gradient Descent Optimizations</i> -> Momentum and Adaptive Learning Rate Based Methods
 4. <i>t-SNE</i> -> distributed-Stochastic Neighbour Embedding (Not Complete)
 
-<b>Udacity-DLND Folder</b><br/>
-1. Sentiment Analysis with a Neural Network
-2. Miniflow(mini tensorflow)<br/>
-
 
 <b>Backpropagation<br/>
 ![Backpropagation](/data/images/backprop.jpg "Backpropagation")
